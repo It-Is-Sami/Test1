@@ -1,0 +1,105 @@
+body {
+    background-color: rgb(230, 230, 230);
+}
+
+.title,
+.me {
+    text-align: center;
+}
+
+.name-lable {
+    margin-left: 300px;
+}
+
+.name {
+    margin-right: 200px;
+}
+
+.multiple-choice {
+    background-color: rgb(230, 230, 230);
+    width: 100%;
+    height: 2000px;
+    margin-top: 40px;
+}
+
+.q2-choice2 {
+    margin-left: 80px;
+}
+
+.q2-choice4 {
+    margin-left: 29px;
+}
+
+.q3-choice2 {
+    margin-left: 102px;
+}
+
+.q3-choice4 {
+    margin-left: 111.5px;
+}
+
+.q4-choice2 {
+    margin-left: 109px;
+}
+
+.q4-choice4 {
+    margin-left: 102px;
+}
+
+.q5-choice2 {
+    margin-left: 81px;
+}
+
+.q5-choice4 {
+    margin-left: 89px;
+}
+
+.flammable,
+.biohazard,
+.explosive,
+.danger,
+.test-tube,
+.funnel,
+.flask {
+    font-size: 20px;
+}
+
+.q6-choice2 {
+    margin-left: 78px;
+}
+
+.q6-choice4 {
+    margin-left: 78px;
+}
+
+.q7-choice2 {
+    margin-left: 85px;
+}
+
+.q7-choice4 {
+    margin-left: 57px;
+}
+
+.q8-choice2 {
+    margin-left: 16px;
+}
+
+.q8-choice4 {
+    margin-left: 57px;
+}
+
+.q9-choice2 {
+    margin-left: 85px;
+}
+
+.q9-choice4 {
+    margin-left: 57px;
+}
+
+.q10-choice2 {
+    margin-left: 52px;
+}
+
+.q10-choice4 {
+    margin-left: 87px;
+}
